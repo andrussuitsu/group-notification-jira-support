@@ -6,13 +6,11 @@ This repository is for bug reports and feature requests for the [Group Notificat
 
 ### Report a Bug
 1. Search [existing issues](https://github.com/octothorpe-ou/group-notification-jira-support/issues) to check if it's already reported
-2. If not found, [create a new issue](https://github.com/octothorpe-ou/group-notification-jira-support/issues/new) with the `bug` label
-3. Include: Jira version, steps to reproduce, expected vs actual behavior
+2. If not found, [create a new bug report](https://github.com/octothorpe-ou/group-notification-jira-support/issues/new?template=bug_report.md)
 
 ### Request a Feature
 1. Search [existing issues](https://github.com/octothorpe-ou/group-notification-jira-support/issues) to check if it's already requested
-2. If not found, [create a new issue](https://github.com/octothorpe-ou/group-notification-jira-support/issues/new) with the `feature-request` label
-3. Describe the use case and why it would be helpful
+2. If not found, [create a new feature request](https://github.com/octothorpe-ou/group-notification-jira-support/issues/new?template=feature_request.md)
 
 ### Vote on Issues
 Use 👍 reactions on issues to show support — this helps us prioritize.
