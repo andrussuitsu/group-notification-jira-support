@@ -17,16 +17,12 @@ This repository is for bug reports and feature requests for the [Group Notificat
 ### Vote on Issues
 Use 👍 reactions on issues to show support — this helps us prioritize.
 
-## For Private Support
-
-For account-specific issues or private inquiries, contact us via our [support portal](https://octothorpe.atlassian.net/servicedesk/customer/portal/1) or email info@octothorpe.ee.
-
 ## About the App
 
 Group Notification lets you @mention all members of a group in Jira comments. Works with LDAP, Active Directory, SCIM-synced, or manually created groups.
 
 - [Marketplace Listing](https://marketplace.atlassian.com/apps/XXXXX)
-- [Documentation](https://octothorpe.ee/docs/group-notification-jira)
+- [Documentation]([https://octothorpe.ee/docs/group-notification-jira](https://octothorpe.ee/group-notification-jira/DOCUMENTATION.md))
 
 ---
 
