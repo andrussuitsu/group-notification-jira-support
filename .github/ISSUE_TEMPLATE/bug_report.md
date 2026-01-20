@@ -22,7 +22,7 @@ What actually happens.
 ## Environment
 - Jira Cloud version:
 - Browser:
-- Group type (LDAP/AD/SCIM/Manual):
+- Group size (approximate):
 
 ## Screenshots
 If applicable, add screenshots to help explain the problem.

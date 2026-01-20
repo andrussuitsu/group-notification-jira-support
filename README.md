@@ -17,7 +17,7 @@ Use 👍 reactions on issues to show support — this helps us prioritize.
 
 ## About the App
 
-Group Notification lets you @mention all members of a group in Jira comments. Works with LDAP, Active Directory, SCIM-synced, or manually created groups.
+Group Notification lets you @mention all members of one or more groups in Jira comments. Select groups, add an optional message, and notify everyone at once.
 
 - [Marketplace Listing](https://marketplace.atlassian.com/apps/XXXXX)
 - [Documentation](https://octothorpe.ee/group-notification-jira/DOCUMENTATION.html)
